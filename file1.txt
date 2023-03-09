@@ -1,4 +1,4 @@
 Hello everyone,
 
 learning git
-this is gonna be the first commit.
+this is gonna be the second commit and i am gonna link this local repository to a remote repository(github)
