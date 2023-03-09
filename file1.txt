@@ -1,0 +1,4 @@
+Hello everyone,
+
+learning git
+this is gonna be the first commit.
