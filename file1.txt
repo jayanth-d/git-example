@@ -1,4 +1,4 @@
 Hello everyone,
 
 learning git
-this is gonna be the second commit and i am gonna link this local repository to a remote repository(github)
+this is gonna be the third commit and i am checking wheather the change in local repository will trigger a change in remote repository
